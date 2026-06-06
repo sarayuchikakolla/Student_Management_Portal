@@ -9,6 +9,7 @@ The portal is fully responsive and works seamlessly across desktop, tablet, and 
 ---
 
 ## Live Demo
+
 https://sarayuchikakolla.github.io/Student_Management_Portal/
 
 ---
