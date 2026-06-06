@@ -1,29 +1,107 @@
 # Student Management Portal
 
 ## Project Overview
-A responsive Student Management Portal developed using HTML, CSS, Bootstrap 5, and JavaScript. The portal provides student registration, dashboard statistics, profile management, and contact functionalities.
+
+The Student Management Portal is a responsive web application developed using HTML5, CSS3, Bootstrap 5, and JavaScript. It provides an easy-to-use interface for managing student-related information, including student registration, dashboard statistics, profile details, and contact information.
+
+The portal is fully responsive and works seamlessly across desktop, tablet, and mobile devices.
+
+---
 
 ## Features
+
 - Responsive Navigation Bar
 - Student Registration Form
-- Dashboard Statistics
+- Dashboard with Statistics Cards
+- Student Information Table
 - Search Functionality
+- Student Profile Page
 - Contact Form
 - Mobile-Friendly Design
-- Bootstrap 5 Components
+- Bootstrap Components Integration
+- Form Validation
+
+---
 
 ## Technologies Used
+
 - HTML5
 - CSS3
 - Bootstrap 5
 - JavaScript
 
+---
+
+## How to Run
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/sarayuchikakolla/Student_Management_Portal.git
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd Student_Management_Portal
+   ```
+
+3. Open `home.html` in any web browser.
+
+### Using VS Code
+
+1. Open the project in Visual Studio Code.
+2. Install the **Live Server** extension.
+3. Right-click on `home.html`.
+4. Click **Open with Live Server**.
+
+---
+## Project Structure
+
+```text
+Student_Management_Portal/
+│
+├── css/
+├── img/
+├── js/
+│
+├── home.html
+├── about.html
+├── register.html
+├── dashboard.html
+├── contact.html
+│
+└── README.md
+```
+
+---
+
 ## Pages
-- Home Page
-- About Page
-- Registration Form
-- Dashboard
-- Contact Page
+
+### Home Page
+- Responsive Navbar
+- Hero Section
+- Feature Cards
+- Footer Section
+
+### About Page
+- College Information
+- Mission and Vision
+
+### Registration Page
+- Student Registration Form
+- Form Validation
+
+### Dashboard Page
+- Statistics Cards
+- Student Records Table
+- Search Functionality
+
+### Contact Page
+- Contact Form
+- Contact Information
+
+---
 
 ## Screenshots
 
@@ -47,6 +125,7 @@ A responsive Student Management Portal developed using HTML, CSS, Bootstrap 5, a
 
 <img width="492" height="766" alt="image" src="https://github.com/user-attachments/assets/c4638a2f-584a-493d-b055-69272b231c24" />
 
+--- 
 
 ## GitHub Repository
 https://github.com/sarayuchikakolla/Student_Management_Portal
