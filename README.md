@@ -1,10 +1,15 @@
 # Student Management Portal
-
+ 
 ## Project Overview
 
 The Student Management Portal is a responsive web application developed using HTML5, CSS3, Bootstrap 5, and JavaScript. It provides an easy-to-use interface for managing student-related information, including student registration, dashboard statistics, profile details, and contact information.
 
 The portal is fully responsive and works seamlessly across desktop, tablet, and mobile devices.
+
+---
+
+## Live Demo
+https://sarayuchikakolla.github.io/Student_Management_Portal/
 
 ---
 
