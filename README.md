@@ -1,20 +1,29 @@
 # Student Management Portal
 
 ## Project Overview
-A responsive web-based Student Management Portal developed using HTML, CSS, Bootstrap, and JavaScript.
+A responsive Student Management Portal developed using HTML, CSS, Bootstrap 5, and JavaScript. The portal provides student registration, dashboard statistics, profile management, and contact functionalities.
 
 ## Features
-- Student Registration
-- Dashboard
+- Responsive Navigation Bar
+- Student Registration Form
+- Dashboard Statistics
 - Search Functionality
-- Responsive Design
-- Mobile-Friendly Interface
+- Contact Form
+- Mobile-Friendly Design
+- Bootstrap 5 Components
 
 ## Technologies Used
 - HTML5
 - CSS3
 - Bootstrap 5
 - JavaScript
+
+## Pages
+- Home Page
+- About Page
+- Registration Form
+- Dashboard
+- Contact Page
 
 ## Screenshots
 
